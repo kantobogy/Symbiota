@@ -20,7 +20,7 @@
 
 1. Download Symbiota code from GitHub repository
    * (https://github.com/BioKIC/Symbiota-light)  
-   * Command line checkout: git clone https://github.com/BioKIC/Symbiota-light.git
+   * Command line checkout: git clone https://github.com/BioKIC/Symbiota.git
 2. Install Symbiota database schema
    1. Create new database (e.g. CREATE SCHEMA symbdb CHARACTER SET utf8 COLLATE utf8_general_ci) 
    2. Create read-only and read/write users for Symbiota database 
